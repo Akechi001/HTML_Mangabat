@@ -339,4 +339,66 @@ width: 400px;
     background: rgb(112, 186, 138);
     margin-left: 35px;
     margin-top: -15px;
+} 
+
+.latestbox {
+    float:left;
+    width: 500px;
+    border: 2px solid white;
 }
+
+.latestbox img{
+    float: left;
+    width: auto;
+    height: 150px;
+    margin-left: 40px;
+    border: 1px solid rgb(158, 150, 150);
+}
+
+.latestbox-img h3 {
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-left: 160px;
+}
+
+.latestparaauthor p{
+    font-size: 12px;
+    margin-top: -10px;
+    margin-left: 161px;
+}
+.chapter{
+    margin-left: 160px;
+}
+
+.pointbundar3 {
+    float: left;
+    background: red ;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    margin-left: 15px;
+    margin-top: -535px;
+}
+
+.garispb3{
+    float : left;
+    height: 3px;
+    width: 120px;
+    background: rgb(112, 186, 138);
+    margin-left: 35px;
+    margin-top: -530.5px;
+}
+
+.topweekly{
+    border-top: 3px solid rgb(112, 186, 138);
+    margin-top: -65px;
+    margin-left: 1060px;
+}
+
+.text3{
+    margin-top: 0px;
+    margin-left: 20px;
+    color: rgb(112, 186, 138);
+    font-size: 20px;
+}
+
